@@ -56,5 +56,5 @@ if __name__ == "__main__":
          [5, 6, 7, 8],
          [9,10,11,12]]
 
-  new_arr = transpose_array(arr)
+  new_arr = transpose_array(arr, verbose=True)
   print(new_arr)
